@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/akronim</item>
+        <item>@font/cambo</item>
+        <item>@font/headland_one</item>
+        <item>@font/mate</item>
+        <item>@font/quintessential</item>
+        <item>@font/suranna</item>
+    </array>
+</resources>
